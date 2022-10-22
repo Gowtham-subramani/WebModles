@@ -1,0 +1,89 @@
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+.row-content{
+    padding:  50px 0px  50px 0px;
+    margin:0px  auto;
+    border-bottom: 1px ridge;
+    min-height:400px
+}
+.footer{
+    background-color:  rgb(186, 139, 230);
+    color: white;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background-color: rgb(125, 45, 199);
+    color: white;
+}
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+} 
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+.breadcrumb{
+    background-color:  white;
+}
+.navbar-dark{
+    background-color : rgb(89, 10, 163) ;
+}  
+
+.col-12 .col-md-3{
+    padding: 0px 0px;
+}
+.col-12 .col-sm-3{
+    padding: 0px;
+}
+.tab-content{
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-right:1px solid #ddd;
+    padding: 10px;
+}
+ 
+.btn-outline-success{
+    border: none;
+}
+.carousel {
+    background:rgb(125, 45, 199);
+}
+.carousel-item {
+  height:300px;
+}
+.carousel-item img {
+    position:absolute;
+    top:0;
+    left:0;
+    min-height:300px;
+}
+.btn-group{
+    border: radius 20%;;
+}
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+.modal-header{
+    color: white;
+    background-color : rgb(89, 10, 163) ;
+}
+.close{
+    color: white;
+}
+.modal-body{
+    background-color:  rgb(201, 165, 235);
+
+}
+.navbar-text{
+    color: white;
+}
