@@ -1,2 +1,2 @@
-# WebModles
+# WebModules
 HTML,CSS,JavaScript
